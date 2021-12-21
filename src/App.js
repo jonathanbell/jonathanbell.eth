@@ -6,9 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Work in progress.. The future home of jonathanbell.eth
+          Work in progress.. The is the future home of jonathanbell.eth
         </p>
-<p>This site is hosted on the distributed web.</p>
+        <p>
+          This site is hosted on the distributed web.
+        </p>
       </header>
     </div>
   );
