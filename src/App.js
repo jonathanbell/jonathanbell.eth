@@ -8,6 +8,7 @@ function App() {
         <p>
           Work in progress.. The future home of jonathanbell.eth
         </p>
+<p>This site is hosted on the distributed web.</p>
       </header>
     </div>
   );
